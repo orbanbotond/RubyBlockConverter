@@ -62,9 +62,10 @@ Command Palette
 
 Key Binding
 -----------
-By default,
-`ctrl+shift+[` toggle_between_do_end_and_brace
-`ctrl+shift+]` toggle_between_do_end_and_brace
+By default
+
+ - `ctrl+shift+[` toggle_between_do_end_and_brace
+ - `ctrl+shift+]` toggle_between_do_end_and_brace
 
 Compatibility
 -------------
