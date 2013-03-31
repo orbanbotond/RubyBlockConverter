@@ -1,4 +1,4 @@
 [
-  { "keys": ["ctrl+shift+]"], "command": "toggle_between_do_end_and_brace" },
-	{ "keys": ["ctrl+shift+["], "command": "toggle_between_do_end_and_brace" }
+ { "keys": ["ctrl+shift+]"], "command": "toggle_between_do_end_and_brace" },
+ { "keys": ["ctrl+shift+["], "command": "toggle_between_do_end_and_brace" }
 ]
