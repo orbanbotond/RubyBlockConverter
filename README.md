@@ -27,7 +27,7 @@ foo {|a|
   a.bar
 }
 
-# run "brace_to_do_end"
+# run "toggle_between_do_end_and_brace"
 foo do |a|
   a.bar
 end
